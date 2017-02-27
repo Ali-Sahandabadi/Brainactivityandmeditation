@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-light"
         android:padding="20dp"
-        android:text="alpha wave music !!"
+        android:text="alpha wave music !!!!"
         android:textColor="@android:color/white"
         android:textSize="36sp" />
 
